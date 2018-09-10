@@ -1,3 +1,4 @@
 # CreditCard_Checker
 
-This program, check numbers that enter from user is credit card or not using by Luhn Algorithm.
+This program, check numbers that enter from user is credit card or not.
+Used Luhn Algorithm.
